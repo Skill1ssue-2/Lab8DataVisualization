@@ -1,0 +1,7 @@
+![DistributionOfCustomerEducation](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/f163fd72-22ff-4175-9995-19adf9a48835)
+![CorrelationHeatmap](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/be4cf943-f4ed-462f-a7ff-e47ad1ee04fd)
+![ColumnDistribution](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/5dd6b51a-9da4-49a3-85e7-ebdecaa7388f)
+![AvgSpendingResVsNonRes](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/afb18216-cfab-4d0c-8a2a-417eaac1c2be)
+![AvgSpendingOnProductByEdu](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/e49dda46-e1ec-47ab-a092-3c8d1e0df86b)
+![AmountSpendOnWineAndFruits](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/39b88d2a-d071-4583-ae76-cb2440a4374d)
+![DistributionOfMaritalStatus](https://github.com/Skill1ssue-2/Lab8DataVisualization/assets/157151106/bf665518-cee0-4aeb-9da4-518787e95621)
